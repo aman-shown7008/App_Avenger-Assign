@@ -1,0 +1,9 @@
+.outer{
+  background-color: #7B66FF;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
+
+.box{
+  margin-top: 10rem;
+}
+
